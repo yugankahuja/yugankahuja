@@ -1,9 +1,8 @@
-![MasterHead](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
+![MasterHead](https://i.redd.it/ddnm7kmznqd71.gif)
 <h1 align="center">Hello World 👋, I'm Yugank Ahuja</h1>
 <h3 align="center">I am focused on learning new technologies and applying the ones I know in the real world to make this world a better place.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif">
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/72f11b0a4f464d653b9883d7906c51e339c3412093a8ba8906ee1149ac705677/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
 
 <p align="left"> <a href="https://twitter.com/yugankahuja" target="blank"><img src="https://img.shields.io/twitter/follow/yugankahuja?logo=twitter&style=for-the-badge" alt="yugankahuja" /></a> </p>
