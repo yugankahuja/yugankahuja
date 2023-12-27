@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **yugank.ahuja04@gmail.com**
 
-- ⚡ Fun fact: **I am a gamer and an anime and manga lover**
+- ⚡ Fun fact: **I am a gamer and an anime lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
