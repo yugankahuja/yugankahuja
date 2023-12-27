@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
 <h1 align="center">Hello World 👋, I'm Yugank Ahuja</h1>
 <h3 align="center">I am focused on learning new technologies and applying the ones I know in the real world to make this world a better place.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif](https://github.com/yugankahuja)" />
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif">
 
 
 
