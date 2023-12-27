@@ -3,6 +3,8 @@
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Yugank Ahuja</h1>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -38,9 +40,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugankahuja&show_icons=true&locale=en" alt="yugankahuja" /></p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 Credit: [yugankahuja](https://github.com/yugankahuja)
 
 Last Edited on: 27/12/2023
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
