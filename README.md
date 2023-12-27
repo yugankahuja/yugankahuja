@@ -2,7 +2,7 @@
 <h1 align="center">Hello World 👋, I'm Yugank Ahuja</h1>
 <h3 align="center">I am focused on learning new technologies and applying the ones I know in the real world to make this world a better place.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM](https://github.com/yugankahuja)" />
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif](https://github.com/yugankahuja)" />
 
 
 
