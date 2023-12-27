@@ -1,5 +1,9 @@
+<p align="center">
+<a href="https://github.com/JurojinKun?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%8C%B1+Young+developper+in+the+IT+world+%F0%9F%8C%B1;%F0%9F%8C%B1+Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+</p>
 
-<h1 align="center">Hello World 👋, I'm Yugank Ahuja</h1>
+
+<h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Yugank Ahuja</h1>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -9,13 +13,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/72f11b0a4f464d653b9883d7906c51e339c3412093a8ba8906ee1149ac705677/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
-- 🔭 I’m currently working on: **React.js, Node.js, MongoDB**
+- 🔭 I’m currently working on: **React.js, Node.js, MongoDB, Becoming the best version of myself**
 
 - 🌱 I’m currently learning: **Redux, Next.js**
 
 - 📫 How to reach me: **yugank.ahuja04@gmail.com**
 
 - ⚡ Fun fact: **I am a gamer and an anime lover**
+  
+- ❤️ Passion (at night): PC Building stuff, Cars, Gaming, and Content creation(streaming).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
