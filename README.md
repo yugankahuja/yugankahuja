@@ -9,6 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/72f11b0a4f464d653b9883d7906c51e339c3412093a8ba8906ee1149ac705677/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
+
+<h3 align="left">Work:</h3>
+- 🔭 I’m currently working on: **React.js, Node.js, MongoDB**
 - 🌱 I’m currently learning: **Redux, Next.js**
 - 📫 How to reach me: **yugank.ahuja04@gmail.com**
 
