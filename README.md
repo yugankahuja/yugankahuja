@@ -8,7 +8,7 @@
 <h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Yugank Ahuja</h1>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="" /></a>
 </div>
 
 <h3 align="center">I am a Front End Developer and a tech enthusiast and I am focused on learning new technologies and applying the ones I know in the real world to make this world a better place.</h3>
